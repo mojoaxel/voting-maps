@@ -8,7 +8,7 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Ingolstadt, krfr. St",
-				"density": 13.2
+				"density": "13.20"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -358,7 +358,7 @@
 			"type": "Feature",
 			"properties": {
 				"name": "München, Landeshauptstadt",
-				"density": 12.1
+				"density": "12.10"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -908,7 +908,7 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Rosenheim, krfr. St",
-				"density": 11.4
+				"density": "11.40"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -1046,7 +1046,7 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Altötting",
-				"density": 13
+				"density": "13.00"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -1856,7 +1856,7 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Berchtesgadener Land",
-				"density": 9.3
+				"density": "9.30"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -2894,7 +2894,7 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Bad Tölz-Wolfratshausen",
-				"density": 11.4
+				"density": "11.40"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -4004,7 +4004,7 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Dachau",
-				"density": 14
+				"density": "14.00"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -4810,7 +4810,7 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Ebersberg",
-				"density": 15.2
+				"density": "15.20"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -5572,7 +5572,7 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Eichstätt",
-				"density": 17.2
+				"density": "17.20"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -7058,7 +7058,7 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Erding",
-				"density": 13.2
+				"density": "13.20"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -7928,7 +7928,7 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Freising",
-				"density": 15
+				"density": "15.00"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -8766,7 +8766,7 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Fürstenfeldbruck",
-				"density": 15.3
+				"density": "15.30"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -9580,7 +9580,7 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Garmisch-Partenkirchen",
-				"density": 10.1
+				"density": "10.10"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -10526,7 +10526,7 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Landsberg am Lech",
-				"density": 13.9
+				"density": "13.90"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -11552,7 +11552,7 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Miesbach",
-				"density": 10.9
+				"density": "10.90"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -12510,7 +12510,7 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Mühldorf a.Inn",
-				"density": 11.8
+				"density": "11.80"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -13680,7 +13680,7 @@
 			"type": "Feature",
 			"properties": {
 				"name": "München",
-				"density": 15.1
+				"density": "15.10"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -14845,558 +14845,8 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "München",
-				"density": 15.1
-			},
-			"geometry": {
-				"type": "Polygon",
-				"coordinates": [
-					[
-						[
-							11.407519340515194,
-							48.198219299316406
-						],
-						[
-							11.429748535156307,
-							48.20183181762707
-						],
-						[
-							11.463100433349553,
-							48.205398559570426
-						],
-						[
-							11.463127136230526,
-							48.20911026000988
-						],
-						[
-							11.474290847778434,
-							48.21648025512701
-						],
-						[
-							11.490948677063102,
-							48.2164192199707
-						],
-						[
-							11.491048812866211,
-							48.227561950683594
-						],
-						[
-							11.49663066864025,
-							48.23125076293957
-						],
-						[
-							11.496720314025936,
-							48.24238967895508
-						],
-						[
-							11.502278327941895,
-							48.24235916137695
-						],
-						[
-							11.502309799194336,
-							48.24607849121094
-						],
-						[
-							11.507868766784782,
-							48.246059417724666
-						],
-						[
-							11.513388633728027,
-							48.24232101440424
-						],
-						[
-							11.52447891235363,
-							48.23855972290039
-						],
-						[
-							11.530029296875,
-							48.23854064941412
-						],
-						[
-							11.529970169067496,
-							48.23112106323242
-						],
-						[
-							11.535490036010742,
-							48.227378845214844
-						],
-						[
-							11.552119255066032,
-							48.22359848022472
-						],
-						[
-							11.557680130004883,
-							48.22357940673828
-						],
-						[
-							11.557639122009277,
-							48.2198600769043
-						],
-						[
-							11.56874942779541,
-							48.219821929931584
-						],
-						[
-							11.568790435791016,
-							48.22354125976557
-						],
-						[
-							11.579898834228516,
-							48.22349166870117
-						],
-						[
-							11.58549022674572,
-							48.227191925048885
-						],
-						[
-							11.590979576110783,
-							48.21973037719732
-						],
-						[
-							11.590870857238883,
-							48.20859146118164
-						],
-						[
-							11.607528686523494,
-							48.208518981933594
-						],
-						[
-							11.6075696945191,
-							48.21224212646496
-						],
-						[
-							11.613158226013184,
-							48.21593093872076
-						],
-						[
-							11.607679367065543,
-							48.223388671875
-						],
-						[
-							11.618789672851676,
-							48.223339080810604
-						],
-						[
-							11.629929542541447,
-							48.227020263671875
-						],
-						[
-							11.641020774841365,
-							48.223258972168026
-						],
-						[
-							11.64097976684576,
-							48.21953964233404
-						],
-						[
-							11.652010917663631,
-							48.21207046508795
-						],
-						[
-							11.651930809021053,
-							48.20463943481451
-						],
-						[
-							11.646379470825195,
-							48.204658508300724
-						],
-						[
-							11.646340370178166,
-							48.20093917846674
-						],
-						[
-							11.640778541565055,
-							48.20096206665039
-						],
-						[
-							11.640669822692928,
-							48.1898193359375
-						],
-						[
-							11.635040283203239,
-							48.18239974975597
-						],
-						[
-							11.629449844360352,
-							48.17871093749994
-						],
-						[
-							11.629410743713379,
-							48.17499923706049
-						],
-						[
-							11.646030426025334,
-							48.17121124267584
-						],
-						[
-							11.668239593505916,
-							48.171119689941406
-						],
-						[
-							11.668278694152889,
-							48.1748504638673
-						],
-						[
-							11.662758827209473,
-							48.17858123779297
-						],
-						[
-							11.701639175415153,
-							48.17842102050787
-						],
-						[
-							11.696049690246582,
-							48.17473220825201
-						],
-						[
-							11.701559066772575,
-							48.17098999023443
-						],
-						[
-							11.69595909118658,
-							48.16728973388672
-						],
-						[
-							11.69040966033947,
-							48.167320251464844
-						],
-						[
-							11.690359115600586,
-							48.16360092163086
-						],
-						[
-							11.67913913726801,
-							48.15248870849615
-						],
-						[
-							11.684650421142635,
-							48.148750305175895
-						],
-						[
-							11.679020881652946,
-							48.14134216308594
-						],
-						[
-							11.71236896514904,
-							48.14492034912121
-						],
-						[
-							11.717880249023438,
-							48.14118194580078
-						],
-						[
-							11.712288856506461,
-							48.13748931884777
-						],
-						[
-							11.717839241027889,
-							48.137458801269645
-						],
-						[
-							11.72334957122797,
-							48.13372039794922
-						],
-						[
-							11.723388671875,
-							48.1374397277832
-						],
-						[
-							11.728899955749569,
-							48.13370132446295
-						],
-						[
-							11.717749595642147,
-							48.13003158569336
-						],
-						[
-							11.717629432678336,
-							48.118869781494254
-						],
-						[
-							11.706519126892204,
-							48.11891937255865
-						],
-						[
-							11.701019287109489,
-							48.12266159057623
-						],
-						[
-							11.695430755615178,
-							48.11896896362305
-						],
-						[
-							11.695389747619629,
-							48.11524963378906
-						],
-						[
-							11.711999893188477,
-							48.11146163940441
-						],
-						[
-							11.71750926971447,
-							48.1077117919923
-						],
-						[
-							11.717419624328613,
-							48.100280761718864
-						],
-						[
-							11.711870193481502,
-							48.10031127929699
-						],
-						[
-							11.695150375366211,
-							48.09294891357422
-						],
-						[
-							11.68401908874506,
-							48.08927917480469
-						],
-						[
-							11.683938980102482,
-							48.08185195922857
-						],
-						[
-							11.689409255981559,
-							48.07439041137701
-						],
-						[
-							11.667228698730526,
-							48.07448959350586
-						],
-						[
-							11.639579772949332,
-							48.08205032348644
-						],
-						[
-							11.628528594970703,
-							48.08581924438482
-						],
-						[
-							11.617439270019588,
-							48.08586883544922
-						],
-						[
-							11.611859321594352,
-							48.082180023193416
-						],
-						[
-							11.595228195190487,
-							48.08226013183594
-						],
-						[
-							11.589739799499455,
-							48.08971023559582
-						],
-						[
-							11.567509651184082,
-							48.08238983154291
-						],
-						[
-							11.567480087280217,
-							48.07868194580084
-						],
-						[
-							11.556419372558707,
-							48.08245086669922
-						],
-						[
-							11.556319236755371,
-							48.0713005065918
-						],
-						[
-							11.550778388977108,
-							48.07133102416998
-						],
-						[
-							11.550748825073242,
-							48.067619323730526
-						],
-						[
-							11.545269966125545,
-							48.075069427490234
-						],
-						[
-							11.534178733825684,
-							48.07513046264654
-						],
-						[
-							11.534088134765682,
-							48.0639915466308
-						],
-						[
-							11.517438888549862,
-							48.06035995483393
-						],
-						[
-							11.511869430542049,
-							48.056678771972656
-						],
-						[
-							11.506358146667594,
-							48.060420989990234
-						],
-						[
-							11.506379127502441,
-							48.064128875732536
-						],
-						[
-							11.47323989868164,
-							48.07915115356451
-						],
-						[
-							11.478839874267635,
-							48.08654022216808
-						],
-						[
-							11.4788694381715,
-							48.090240478515625
-						],
-						[
-							11.473348617553768,
-							48.093990325927734
-						],
-						[
-							11.478948593139762,
-							48.10139083862305
-						],
-						[
-							11.467859268188477,
-							48.101440429687614
-						],
-						[
-							11.468048095703182,
-							48.127418518066406
-						],
-						[
-							11.462510108947754,
-							48.12744903564453
-						],
-						[
-							11.45143985748291,
-							48.13122177124029
-						],
-						[
-							11.440349578857479,
-							48.13127136230469
-						],
-						[
-							11.440369606018066,
-							48.13497924804699
-						],
-						[
-							11.434829711914062,
-							48.135009765625114
-						],
-						[
-							11.429259300231934,
-							48.13132858276367
-						],
-						[
-							11.429229736328239,
-							48.12762069702154
-						],
-						[
-							11.418109893798828,
-							48.12395858764654
-						],
-						[
-							11.412567138671932,
-							48.123989105224666
-						],
-						[
-							11.406998634338379,
-							48.12031173706055
-						],
-						[
-							11.395899772644157,
-							48.12036895751953
-						],
-						[
-							11.395929336547795,
-							48.124080657958984
-						],
-						[
-							11.390420913696289,
-							48.127819061279354
-						],
-						[
-							11.390430450439396,
-							48.13153076171881
-						],
-						[
-							11.395978927612418,
-							48.13150024414068
-						],
-						[
-							11.396050453186149,
-							48.14263153076183
-						],
-						[
-							11.38499927520752,
-							48.150100708007756
-						],
-						[
-							11.379460334777832,
-							48.15013122558594
-						],
-						[
-							11.373929023742676,
-							48.153869628906364
-						],
-						[
-							11.362829208373967,
-							48.1539306640625
-						],
-						[
-							11.368419647216854,
-							48.161319732666016
-						],
-						[
-							11.373999595642147,
-							48.165000915527344
-						],
-						[
-							11.374078750610408,
-							48.176120758056754
-						],
-						[
-							11.379619598388672,
-							48.17610168457031
-						],
-						[
-							11.390709877014274,
-							48.17232894897455
-						],
-						[
-							11.396268844604492,
-							48.17599868774414
-						],
-						[
-							11.396350860595646,
-							48.18714141845703
-						],
-						[
-							11.390798568725643,
-							48.187171936035156
-						],
-						[
-							11.396418571472225,
-							48.19827270507818
-						],
-						[
-							11.407519340515194,
-							48.198219299316406
-						]
-					]
-				]
-			}
-		},
-		{
-			"type": "Feature",
-			"properties": {
 				"name": "Neuburg-Schrobenhausen",
-				"density": 13.8
+				"density": "13.80"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -16342,7 +15792,7 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Pfaffenhofen a.d.Ilm",
-				"density": 14.9
+				"density": "14.90"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -17356,7 +16806,7 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Rosenheim",
-				"density": 12.8
+				"density": "12.80"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -19036,7 +18486,7 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Starnberg",
-				"density": 13.9
+				"density": "13.90"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -19714,7 +19164,7 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Traunstein",
-				"density": 13.4
+				"density": "13.40"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -21088,7 +20538,7 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Weilheim-Schongau",
-				"density": 14.4
+				"density": "14.40"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -22378,7 +21828,7 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Landshut, krfr. St",
-				"density": 15.6
+				"density": "15.60"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -22716,7 +22166,7 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Passau, krfr. St",
-				"density": 12.9
+				"density": "12.90"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -23010,7 +22460,7 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Straubing, krfr. St",
-				"density": 12.6
+				"density": "12.60"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -23332,7 +22782,7 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Deggendorf",
-				"density": 11.8
+				"density": "11.80"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -24354,7 +23804,7 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Freyung-Grafenau",
-				"density": 13.6
+				"density": "13.60"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -25496,7 +24946,7 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Kelheim",
-				"density": 13.1
+				"density": "13.10"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -26814,7 +26264,7 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Landshut",
-				"density": 14.1
+				"density": "14.10"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -28458,7 +27908,7 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Passau",
-				"density": 11.2
+				"density": "11.20"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -30060,7 +29510,7 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Regen",
-				"density": 11.9
+				"density": "11.90"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -31062,7 +30512,7 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Rottal-Inn",
-				"density": 10.6
+				"density": "10.60"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -32316,7 +31766,7 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Straubing-Bogen",
-				"density": 13.7
+				"density": "13.70"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -33984,7 +33434,7 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Dingolfing-Landau",
-				"density": 13.9
+				"density": "13.90"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -35122,7 +34572,7 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Amberg, krfr. St",
-				"density": 13.9
+				"density": "13.90"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -35340,7 +34790,7 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Regensburg, krfr. St",
-				"density": 16.3
+				"density": "16.30"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -35654,7 +35104,7 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Weiden i.d.OPf., krfr. St",
-				"density": 15.3
+				"density": "15.30"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -36060,7 +35510,7 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Amberg-Sulzbach",
-				"density": 19.5
+				"density": "19.50"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -37796,7 +37246,7 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Cham",
-				"density": 14
+				"density": "14.00"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -39266,7 +38716,7 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Neumarkt i.d.OPf.",
-				"density": 16.5
+				"density": "16.50"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -40788,7 +40238,7 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Neustadt a.d.Waldnaab",
-				"density": 18.4
+				"density": "18.40"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -42872,7 +42322,7 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Regensburg",
-				"density": 15
+				"density": "15.00"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -44916,7 +44366,7 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Schwandorf",
-				"density": 15.7
+				"density": "15.70"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -46494,7 +45944,7 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Tirschenreuth",
-				"density": 18.2
+				"density": "18.20"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -47756,7 +47206,7 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Bamberg, krfr. St",
-				"density": 19.1
+				"density": "19.10"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -47962,7 +47412,7 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Bayreuth, krfr. St",
-				"density": 15.6
+				"density": "15.60"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -48244,7 +47694,7 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Coburg, krfr. St",
-				"density": 16.6
+				"density": "16.60"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -48530,7 +47980,7 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Hof, krfr. St",
-				"density": 10.4
+				"density": "10.40"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -48776,7 +48226,7 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Bamberg",
-				"density": 15.1
+				"density": "15.10"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -50500,7 +49950,7 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Bayreuth",
-				"density": 13.5
+				"density": "13.50"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -52372,7 +51822,7 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Coburg",
-				"density": 16.9
+				"density": "16.90"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -53648,7 +53098,7 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Forchheim",
-				"density": 17.4
+				"density": "17.40"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -54594,7 +54044,7 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Hof",
-				"density": 14.1
+				"density": "14.10"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -55982,7 +55432,7 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Kronach",
-				"density": 16.7
+				"density": "16.70"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -56876,7 +56326,7 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Kulmbach",
-				"density": 13.7
+				"density": "13.70"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -57918,7 +57368,7 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Lichtenfels",
-				"density": 15.8
+				"density": "15.80"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -58772,7 +58222,7 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Wunsiedel i.Fichtelgebirge",
-				"density": 15.2
+				"density": "15.20"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -59562,7 +59012,7 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Ansbach, krfr. St",
-				"density": 12
+				"density": "12.00"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -59916,7 +59366,7 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Erlangen, krfr. St",
-				"density": 22.3
+				"density": "22.30"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -60166,7 +59616,7 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Fürth, krfr. St",
-				"density": 14.2
+				"density": "14.20"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -60420,7 +59870,7 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Nürnberg, krfr. St",
-				"density": 14.6
+				"density": "14.60"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -60982,7 +60432,7 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Schwabach, krfr. St",
-				"density": 19.5
+				"density": "19.50"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -61184,7 +60634,7 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Ansbach",
-				"density": 15.4
+				"density": "15.40"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -63228,7 +62678,7 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Erlangen-Höchstadt",
-				"density": 20
+				"density": "20.00"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -64610,7 +64060,7 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Fürth",
-				"density": 19.7
+				"density": "19.70"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -65184,7 +64634,7 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Nürnberger Land",
-				"density": 19.3
+				"density": "19.30"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -66350,7 +65800,7 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Neustadt a.d.Aisch-Bad Windsheim",
-				"density": 15.9
+				"density": "15.90"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -67656,7 +67106,7 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Roth",
-				"density": 16.9
+				"density": "16.90"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -69062,7 +68512,7 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Weißenburg-Gunzenhausen",
-				"density": 16.4
+				"density": "16.40"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -70100,7 +69550,7 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Aschaffenburg, krfr. St",
-				"density": 9.8
+				"density": "9.80"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -70394,7 +69844,7 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Schweinfurt, krfr. St",
-				"density": 14.4
+				"density": "14.40"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -70604,7 +70054,7 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Würzburg, krfr. St",
-				"density": 18.8
+				"density": "18.80"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -70966,7 +70416,7 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Aschaffenburg",
-				"density": 12
+				"density": "12.00"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -72120,7 +71570,7 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Bad Kissingen",
-				"density": 16.3
+				"density": "16.30"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -73286,7 +72736,7 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Rhön-Grabfeld",
-				"density": 16.4
+				"density": "16.40"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -74452,7 +73902,7 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Haßberge",
-				"density": 17.4
+				"density": "17.40"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -75630,7 +75080,7 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Kitzingen",
-				"density": 14.4
+				"density": "14.40"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -76532,7 +75982,7 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Miltenberg",
-				"density": 13
+				"density": "13.00"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -77738,7 +77188,7 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Main-Spessart",
-				"density": 16.5
+				"density": "16.50"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -79040,7 +78490,7 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Schweinfurt",
-				"density": 18.6
+				"density": "18.60"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -80520,7 +79970,7 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Würzburg",
-				"density": 17.6
+				"density": "17.60"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -82168,7 +81618,7 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Augsburg, krfr. St",
-				"density": 12.9
+				"density": "12.90"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -82570,7 +82020,7 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Kaufbeuren, krfr. St",
-				"density": 14.3
+				"density": "14.30"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -82800,7 +82250,7 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Kempten (Allgäu), krfr. St",
-				"density": 13.5
+				"density": "13.50"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -83062,7 +82512,7 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Memmingen, krfr. St",
-				"density": 13.2
+				"density": "13.20"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -83392,7 +82842,7 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Aichach-Friedberg",
-				"density": 13.8
+				"density": "13.80"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -84422,7 +83872,7 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Augsburg",
-				"density": 15.7
+				"density": "15.70"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -85896,7 +85346,7 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Dillingen a.d.Donau",
-				"density": 12
+				"density": "12.00"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -86978,7 +86428,7 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Günzburg",
-				"density": 13.2
+				"density": "13.20"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -88060,7 +87510,7 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Neu-Ulm",
-				"density": 8.6
+				"density": "8.60"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -88770,7 +88220,7 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Lindau (Bodensee)",
-				"density": 10.6
+				"density": "10.60"
 			},
 			"geometry": {
 				"type": "MultiPolygon",
@@ -89578,7 +89028,7 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Ostallgäu",
-				"density": 14
+				"density": "14.00"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -91498,7 +90948,7 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Unterallgäu",
-				"density": 12.5
+				"density": "12.50"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -93080,7 +92530,7 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Donau-Ries",
-				"density": 13.1
+				"density": "13.10"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -94666,7 +94116,7 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Oberallgäu",
-				"density": 12.2
+				"density": "12.20"
 			},
 			"geometry": {
 				"type": "MultiPolygon",

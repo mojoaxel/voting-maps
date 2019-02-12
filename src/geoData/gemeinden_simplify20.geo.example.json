@@ -1,0 +1,70 @@
+{
+	"type": "FeatureCollection",
+	"crs": {
+		"type": "name",
+		"properties": {
+			"name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+		}
+	},
+	"source": "© GeoBasis-DE / BKG 2013 (Daten verändert)",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"ADE": 6,
+				"GF": 4,
+				"BSG": 1,
+				"RS": "084355007053",
+				"AGS": "08435053",
+				"SDV_RS": "084355007053",
+				"GEN": "Sipplingen",
+				"BEZ": "Gemeinde",
+				"IBZ": 64,
+				"BEM": "gemeinschaftsangehörig",
+				"NBD": "ja",
+				"SN_L": "08",
+				"SN_R": "4",
+				"SN_K": "35",
+				"SN_V1": "50",
+				"SN_V2": "07",
+				"SN_G": "053",
+				"FK_S3": "R",
+				"NUTS": "DE147",
+				"RS_0": "084355007053",
+				"AGS_0": "08435053",
+				"WSK": "2009/01/01",
+				"DEBKG_ID": "DEBKGDL20000E59B",
+				"destatis": {
+					"RS": "084355007053",
+					"area": 4.28,
+					"area_date": "31.12.2014",
+					"population": 2094,
+					"population_m": 1032,
+					"population_w": 1062,
+					"population_density": 489,
+					"zip": "78354",
+					"center_lon": "9,098441",
+					"center_lat": "47,79642",
+					"travel_key": "L72",
+					"travel_desc": "Bodensee",
+					"density_key": "03",
+					"density_desc": "gering besiedelt"
+				},
+				"wikipedia": {
+					"cid": "http://www.wikidata.org/entity/Q557628",
+					"name": "Sipplingen",
+					"AGS": "08435053",
+					"_licence_plate_code": "FN",
+					"_official_website": "http://www.sipplingen.de",
+					"_local_dialing_code": "07551",
+					"_postal_code": "78354",
+					"_image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sipplingen-bodensee-lake-constance.jpg"
+				}
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": []
+			}
+		}
+	]
+}

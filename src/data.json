@@ -1,8 +1,10 @@
 [{
 	"country": "Bayern",
+	"keyPrefix": "09",
 	"petitions": [{
 		"title": "Nein zu Studienbeiträgen in Bayern",
 		"data": "src/BY/studienbeitraege/vob_studienbeitraege_kr1-7.csv",
+		"logo": "src/BY/studienbeitraege/vob_studienbeitraege.png",
 		"start": "17.01.2013",
 		"end": "30.01.2013"
 	}, {
