@@ -1,0 +1,12 @@
+{
+  "name": "voting-map",
+  "version": "0.0.1",
+  "description": "",
+  "main": "simplifyGeoJson.js",
+  "scripts": {
+    "generateGeoJson": "node scripts/generateGeoJson.js",
+    "start": "npm run generateGeoJson"
+  },
+  "author": "Alexander Wunschik <dev@wunschik.net>",
+  "license": "AGPL-3.0-or-later"
+}

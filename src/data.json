@@ -1,0 +1,13 @@
+[{
+	"country": "Bayern",
+	"petitions": [{
+		"title": "Nein zu Studienbeiträgen in Bayern",
+		"data": "src/BY/studienbeitraege/vob_studienbeitraege_kr1-7.csv",
+		"start": "17.01.2013",
+		"end": "30.01.2013"
+	}, {
+		"title": "Ja zur Wahlfreiheit zwischen G 9 und G 8 in Bayern",
+		"data": "src/BY/g9-g8/vob_g9-g8_kr1-7.csv"
+	}],
+	"referenda": []
+}]

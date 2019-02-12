@@ -1,0 +1,896 @@
+[
+	{
+		"key": 161000,
+		"name": "Ingolstadt, krfr. St",
+		"name_clean": "Ingolstadt Städte",
+		"voters": 90062,
+		"voters_valid": 11918,
+		"valid_percentage": 13.20,
+		"invalid": 17,
+		"sum": 11935
+	},
+	{
+		"key": 162000,
+		"name": "München, Landeshauptstadt",
+		"name_clean": "Munich Städte",
+		"voters": 903904,
+		"voters_valid": 109095,
+		"valid_percentage": 12.10,
+		"invalid": 247,
+		"sum": 109342
+	},
+	{
+		"key": 163000,
+		"name": "Rosenheim, krfr. St",
+		"name_clean": "Rosenheim Städte",
+		"voters": 41454,
+		"voters_valid": 4733,
+		"valid_percentage": 11.40,
+		"invalid": 7,
+		"sum": 4740
+	},
+	{
+		"key": 171000,
+		"name": "Altötting",
+		"voters": 82861,
+		"voters_valid": 10735,
+		"valid_percentage": 13.00,
+		"invalid": 19,
+		"sum": 10754
+	},
+	{
+		"key": 172000,
+		"name": "Berchtesgadener Land",
+		"voters": 74411,
+		"voters_valid": 6916,
+		"valid_percentage": 9.30,
+		"invalid": 48,
+		"sum": 6964
+	},
+	{
+		"key": 173000,
+		"name": "Bad Tölz-Wolfratshausen",
+		"voters": 91394,
+		"voters_valid": 10394,
+		"valid_percentage": 11.40,
+		"invalid": 129,
+		"sum": 10523
+	},
+	{
+		"key": 174000,
+		"name": "Dachau",
+		"voters": 101161,
+		"voters_valid": 14169,
+		"valid_percentage": 14.00,
+		"invalid": 25,
+		"sum": 14194
+	},
+	{
+		"key": 175000,
+		"name": "Ebersberg",
+		"voters": 95599,
+		"voters_valid": 14515,
+		"valid_percentage": 15.20,
+		"invalid": 9,
+		"sum": 14524
+	},
+	{
+		"key": 176000,
+		"name": "Eichstätt",
+		"voters": 95646,
+		"voters_valid": 16446,
+		"valid_percentage": 17.20,
+		"invalid": 75,
+		"sum": 16521
+	},
+	{
+		"key": 177000,
+		"name": "Erding",
+		"voters": 95369,
+		"voters_valid": 12550,
+		"valid_percentage": 13.20,
+		"invalid": 23,
+		"sum": 12573
+	},
+	{
+		"key": 178000,
+		"name": "Freising",
+		"voters": 118972,
+		"voters_valid": 17819,
+		"valid_percentage": 15.00,
+		"invalid": 90,
+		"sum": 17909
+	},
+	{
+		"key": 179000,
+		"name": "Fürstenfeldbruck",
+		"voters": 153084,
+		"voters_valid": 23429,
+		"valid_percentage": 15.30,
+		"invalid": 43,
+		"sum": 23472
+	},
+	{
+		"key": 180000,
+		"name": "Garmisch-Partenkirchen",
+		"voters": 65215,
+		"voters_valid": 6609,
+		"valid_percentage": 10.10,
+		"invalid": 47,
+		"sum": 6656
+	},
+	{
+		"key": 181000,
+		"name": "Landsberg am Lech",
+		"name_clean": "Landsberg a.Lech",
+		"voters": 86753,
+		"voters_valid": 12096,
+		"valid_percentage": 13.90,
+		"invalid": 53,
+		"sum": 12149
+	},
+	{
+		"key": 182000,
+		"name": "Miesbach",
+		"voters": 71909,
+		"voters_valid": 7848,
+		"valid_percentage": 10.90,
+		"invalid": 33,
+		"sum": 7881
+	},
+	{
+		"key": 183000,
+		"name": "Mühldorf a.Inn",
+		"voters": 84068,
+		"voters_valid": 9926,
+		"valid_percentage": 11.80,
+		"invalid": 93,
+		"sum": 10019
+	},
+	{
+		"key": 184000,
+		"name": "München",
+		"name_clear": "Munich",
+		"voters": 232415,
+		"voters_valid": 35131,
+		"valid_percentage": 15.10,
+		"invalid": 119,
+		"sum": 35250
+	},
+	{
+		"key": 185000,
+		"name": "Neuburg-Schrobenhausen",
+		"voters": 70311,
+		"voters_valid": 9735,
+		"valid_percentage": 13.80,
+		"invalid": 27,
+		"sum": 9762
+	},
+	{
+		"key": 186000,
+		"name": "Pfaffenhofen a.d.Ilm",
+		"voters": 89991,
+		"voters_valid": 13418,
+		"valid_percentage": 14.90,
+		"invalid": 108,
+		"sum": 13526
+	},
+	{
+		"key": 187000,
+		"name": "Rosenheim",
+		"voters": 188498,
+		"voters_valid": 24061,
+		"valid_percentage": 12.80,
+		"invalid": 76,
+		"sum": 24137
+	},
+	{
+		"key": 188000,
+		"name": "Starnberg",
+		"voters": 95572,
+		"voters_valid": 13331,
+		"valid_percentage": 13.90,
+		"invalid": 51,
+		"sum": 13382
+	},
+	{
+		"key": 189000,
+		"name": "Traunstein",
+		"voters": 131746,
+		"voters_valid": 17596,
+		"valid_percentage": 13.40,
+		"invalid": 41,
+		"sum": 17637
+	},
+	{
+		"key": 190000,
+		"name": "Weilheim-Schongau",
+		"voters": 99743,
+		"voters_valid": 14389,
+		"valid_percentage": 14.40,
+		"invalid": 40,
+		"sum": 14429
+	},
+	{
+		"key": 261000,
+		"name": "Landshut, krfr. St",
+		"name_clean": "Landshut Städte",
+		"voters": 48369,
+		"voters_valid": 7529,
+		"valid_percentage": 15.60,
+		"invalid": 2,
+		"sum": 7531
+	},
+	{
+		"key": 262000,
+		"name": "Passau, krfr. St",
+		"name_clean": "Passau Städte",
+		"voters": 38039,
+		"voters_valid": 4921,
+		"valid_percentage": 12.90,
+		"invalid": 14,
+		"sum": 4935
+	},
+	{
+		"key": 263000,
+		"name": "Straubing, krfr. St",
+		"name_clean": "Straubing Städte",
+		"voters": 34546,
+		"voters_valid": 4345,
+		"valid_percentage": 12.60,
+		"invalid": 25,
+		"sum": 4370
+	},
+	{
+		"key": 271000,
+		"name": "Deggendorf",
+		"voters": 91345,
+		"voters_valid": 10775,
+		"valid_percentage": 11.80,
+		"invalid": 16,
+		"sum": 10791
+	},
+	{
+		"key": 272000,
+		"name": "Freyung-Grafenau",
+		"voters": 63689,
+		"voters_valid": 8657,
+		"valid_percentage": 13.60,
+		"invalid": 34,
+		"sum": 8691
+	},
+	{
+		"key": 273000,
+		"name": "Kelheim",
+		"voters": 86778,
+		"voters_valid": 11380,
+		"valid_percentage": 13.10,
+		"invalid": 30,
+		"sum": 11410
+	},
+	{
+		"key": 274000,
+		"name": "Landshut",
+		"voters": 115266,
+		"voters_valid": 16204,
+		"valid_percentage": 14.10,
+		"invalid": 154,
+		"sum": 16358
+	},
+	{
+		"key": 275000,
+		"name": "Passau",
+		"voters": 148633,
+		"voters_valid": 16581,
+		"valid_percentage": 11.20,
+		"invalid": 28,
+		"sum": 16609
+	},
+	{
+		"key": 276000,
+		"name": "Regen",
+		"voters": 62707,
+		"voters_valid": 7444,
+		"valid_percentage": 11.90,
+		"invalid": 33,
+		"sum": 7477
+	},
+	{
+		"key": 277000,
+		"name": "Rottal-Inn",
+		"voters": 91878,
+		"voters_valid": 9759,
+		"valid_percentage": 10.60,
+		"invalid": 108,
+		"sum": 9867
+	},
+	{
+		"key": 278000,
+		"name": "Straubing-Bogen",
+		"voters": 76316,
+		"voters_valid": 10468,
+		"valid_percentage": 13.70,
+		"invalid": 39,
+		"sum": 10507
+	},
+	{
+		"key": 279000,
+		"name": "Dingolfing-Landau",
+		"voters": 71133,
+		"voters_valid": 9879,
+		"valid_percentage": 13.90,
+		"invalid": 13,
+		"sum": 9892
+	},
+	{
+		"key": 361000,
+		"name": "Amberg, krfr. St",
+		"name_clean": "Amberg Städte",
+		"voters": 33265,
+		"voters_valid": 4619,
+		"valid_percentage": 13.90,
+		"invalid": 9,
+		"sum": 4628
+	},
+	{
+		"key": 362000,
+		"name": "Regensburg, krfr. St",
+		"name_clean": "Regensburg Städte",
+		"voters": 102463,
+		"voters_valid": 16737,
+		"valid_percentage": 16.30,
+		"invalid": 25,
+		"sum": 16762
+	},
+	{
+		"key": 363000,
+		"name": "Weiden i.d.OPf., krfr. St",
+		"name_clean": "Weiden i.d.OPf.",
+		"voters": 33221,
+		"voters_valid": 5080,
+		"valid_percentage": 15.30,
+		"invalid": 3,
+		"sum": 5083
+	},
+	{
+		"key": 371000,
+		"name": "Amberg-Sulzbach",
+		"voters": 82489,
+		"voters_valid": 16083,
+		"valid_percentage": 19.50,
+		"invalid": 32,
+		"sum": 16115
+	},
+	{
+		"key": 372000,
+		"name": "Cham",
+		"voters": 102005,
+		"voters_valid": 14311,
+		"valid_percentage": 14.00,
+		"invalid": 59,
+		"sum": 14370
+	},
+	{
+		"key": 373000,
+		"name": "Neumarkt i.d.OPf.",
+		"voters": 99069,
+		"voters_valid": 16309,
+		"valid_percentage": 16.50,
+		"invalid": 55,
+		"sum": 16364
+	},
+	{
+		"key": 374000,
+		"name": "Neustadt a.d.Waldnaab",
+		"name_clean": "Neustadt a.d.Waldnaab|Waldnaab",
+		"voters": 76647,
+		"voters_valid": 14087,
+		"valid_percentage": 18.40,
+		"invalid": 55,
+		"sum": 14142
+	},
+	{
+		"key": 375000,
+		"name": "Regensburg",
+		"voters": 145269,
+		"voters_valid": 21738,
+		"valid_percentage": 15.00,
+		"invalid": 27,
+		"sum": 21765
+	},
+	{
+		"key": 376000,
+		"name": "Schwandorf",
+		"voters": 114361,
+		"voters_valid": 17951,
+		"valid_percentage": 15.70,
+		"invalid": 52,
+		"sum": 18003
+	},
+	{
+		"key": 377000,
+		"name": "Tirschenreuth",
+		"voters": 60532,
+		"voters_valid": 11033,
+		"valid_percentage": 18.20,
+		"invalid": 49,
+		"sum": 11082
+	},
+	{
+		"key": 461000,
+		"name": "Bamberg, krfr. St",
+		"name_clean": "Bamberg Städte",
+		"voters": 54553,
+		"voters_valid": 10421,
+		"valid_percentage": 19.10,
+		"invalid": 44,
+		"sum": 10465
+	},
+	{
+		"key": 462000,
+		"name": "Bayreuth, krfr. St",
+		"name_clean": "Bayreuth Städte",
+		"voters": 57122,
+		"voters_valid": 8917,
+		"valid_percentage": 15.60,
+		"invalid": 3,
+		"sum": 8920
+	},
+	{
+		"key": 463000,
+		"name": "Coburg, krfr. St",
+		"name_clean": "Coburg Städte",
+		"voters": 32365,
+		"voters_valid": 5372,
+		"valid_percentage": 16.60,
+		"invalid": 4,
+		"sum": 5376
+	},
+	{
+		"key": 464000,
+		"name": "Hof, krfr. St",
+		"name_clean": "Hof Städte",
+		"voters": 34390,
+		"voters_valid": 3564,
+		"valid_percentage": 10.40,
+		"invalid": 0,
+		"sum": 3564
+	},
+	{
+		"key": 471000,
+		"name": "Bamberg",
+		"voters": 115120,
+		"voters_valid": 17415,
+		"valid_percentage": 15.10,
+		"invalid": 41,
+		"sum": 17456
+	},
+	{
+		"key": 472000,
+		"name": "Bayreuth",
+		"voters": 85359,
+		"voters_valid": 11494,
+		"valid_percentage": 13.50,
+		"invalid": 34,
+		"sum": 11528
+	},
+	{
+		"key": 473000,
+		"name": "Coburg",
+		"voters": 70817,
+		"voters_valid": 11957,
+		"valid_percentage": 16.90,
+		"invalid": 27,
+		"sum": 11984
+	},
+	{
+		"key": 474000,
+		"name": "Forchheim",
+		"voters": 89340,
+		"voters_valid": 15508,
+		"valid_percentage": 17.40,
+		"invalid": 40,
+		"sum": 15548
+	},
+	{
+		"key": 475000,
+		"name": "Hof",
+		"voters": 79835,
+		"voters_valid": 11276,
+		"valid_percentage": 14.10,
+		"invalid": 25,
+		"sum": 11301
+	},
+	{
+		"key": 476000,
+		"name": "Kronach",
+		"voters": 57178,
+		"voters_valid": 9544,
+		"valid_percentage": 16.70,
+		"invalid": 23,
+		"sum": 9567
+	},
+	{
+		"key": 477000,
+		"name": "Kulmbach",
+		"voters": 60511,
+		"voters_valid": 8314,
+		"valid_percentage": 13.70,
+		"invalid": 45,
+		"sum": 8359
+	},
+	{
+		"key": 478000,
+		"name": "Lichtenfels",
+		"voters": 54844,
+		"voters_valid": 8663,
+		"valid_percentage": 15.80,
+		"invalid": 14,
+		"sum": 8677
+	},
+	{
+		"key": 479000,
+		"name": "Wunsiedel i.Fichtelgebirge",
+		"voters": 61090,
+		"voters_valid": 9276,
+		"valid_percentage": 15.20,
+		"invalid": 16,
+		"sum": 9292
+	},
+	{
+		"key": 561000,
+		"name": "Ansbach, krfr. St",
+		"name_clean": "Ansbach Städte",
+		"voters": 31210,
+		"voters_valid": 3752,
+		"valid_percentage": 12.00,
+		"invalid": 34,
+		"sum": 3786
+	},
+	{
+		"key": 562000,
+		"name": "Erlangen, krfr. St",
+		"name_clean": "Erlangen Städte",
+		"voters": 76769,
+		"voters_valid": 17126,
+		"valid_percentage": 22.30,
+		"invalid": 52,
+		"sum": 17178
+	},
+	{
+		"key": 563000,
+		"name": "Fürth, krfr. St",
+		"name_clean": "Fürth Städte",
+		"voters": 85150,
+		"voters_valid": 12050,
+		"valid_percentage": 14.20,
+		"invalid": 8,
+		"sum": 12058
+	},
+	{
+		"key": 564000,
+		"name": "Nürnberg, krfr. St",
+		"name_clean": "Nuremberg Städte",
+		"voters": 349511,
+		"voters_valid": 50931,
+		"valid_percentage": 14.60,
+		"invalid": 55,
+		"sum": 50986
+	},
+	{
+		"key": 565000,
+		"name": "Schwabach, krfr. St",
+		"name_clean": "Schwabach Städte",
+		"voters": 29720,
+		"voters_valid": 5795,
+		"valid_percentage": 19.50,
+		"invalid": 13,
+		"sum": 5808
+	},
+	{
+		"key": 571000,
+		"name": "Ansbach",
+		"voters": 139556,
+		"voters_valid": 21520,
+		"valid_percentage": 15.40,
+		"invalid": 104,
+		"sum": 21624
+	},
+	{
+		"key": 572000,
+		"name": "Erlangen-Höchstadt",
+		"voters": 102218,
+		"voters_valid": 20402,
+		"valid_percentage": 20.00,
+		"invalid": 36,
+		"sum": 20438
+	},
+	{
+		"key": 573000,
+		"name": "Fürth",
+		"voters": 90366,
+		"voters_valid": 17773,
+		"valid_percentage": 19.70,
+		"invalid": 51,
+		"sum": 17824
+	},
+	{
+		"key": 574000,
+		"name": "Nürnberger Land",
+		"voters": 128948,
+		"voters_valid": 24878,
+		"valid_percentage": 19.30,
+		"invalid": 30,
+		"sum": 24908
+	},
+	{
+		"key": 575000,
+		"name": "Neustadt a.d.Aisch-Bad Windsheim",
+		"name_clean": "Neustadt-Bad Windsheim",
+		"voters": 77344,
+		"voters_valid": 12296,
+		"valid_percentage": 15.90,
+		"invalid": 79,
+		"sum": 12375
+	},
+	{
+		"key": 576000,
+		"name": "Roth",
+		"voters": 96821,
+		"voters_valid": 16367,
+		"valid_percentage": 16.90,
+		"invalid": 21,
+		"sum": 16388
+	},
+	{
+		"key": 577000,
+		"name": "Weißenburg-Gunzenhausen",
+		"voters": 72425,
+		"voters_valid": 11902,
+		"valid_percentage": 16.40,
+		"invalid": 25,
+		"sum": 11927
+	},
+	{
+		"key": 661000,
+		"name": "Aschaffenburg, krfr. St",
+		"name_clean": "Aschaffenburg Städte",
+		"voters": 49946,
+		"voters_valid": 4884,
+		"valid_percentage": 9.80,
+		"invalid": 43,
+		"sum": 4927
+	},
+	{
+		"key": 662000,
+		"name": "Schweinfurt, krfr. St",
+		"name_clean": "Schweinfurt Städte",
+		"voters": 39331,
+		"voters_valid": 5660,
+		"valid_percentage": 14.40,
+		"invalid": 5,
+		"sum": 5665
+	},
+	{
+		"key": 663000,
+		"name": "Würzburg, krfr. St",
+		"name_clean": "Würzburg Städte",
+		"voters": 99974,
+		"voters_valid": 18779,
+		"valid_percentage": 18.80,
+		"invalid": 46,
+		"sum": 18825
+	},
+	{
+		"key": 671000,
+		"name": "Aschaffenburg",
+		"voters": 133802,
+		"voters_valid": 16101,
+		"valid_percentage": 12.00,
+		"invalid": 150,
+		"sum": 16251
+	},
+	{
+		"key": 672000,
+		"name": "Bad Kissingen",
+		"voters": 84570,
+		"voters_valid": 13801,
+		"valid_percentage": 16.30,
+		"invalid": 41,
+		"sum": 13842
+	},
+	{
+		"key": 673000,
+		"name": "Rhön-Grabfeld",
+		"voters": 64920,
+		"voters_valid": 10630,
+		"valid_percentage": 16.40,
+		"invalid": 60,
+		"sum": 10690
+	},
+	{
+		"key": 674000,
+		"name": "Haßberge",
+		"voters": 68295,
+		"voters_valid": 11900,
+		"valid_percentage": 17.40,
+		"invalid": 43,
+		"sum": 11943
+	},
+	{
+		"key": 675000,
+		"name": "Kitzingen",
+		"voters": 69352,
+		"voters_valid": 10002,
+		"valid_percentage": 14.40,
+		"invalid": 86,
+		"sum": 10088
+	},
+	{
+		"key": 676000,
+		"name": "Miltenberg",
+		"voters": 96038,
+		"voters_valid": 12477,
+		"valid_percentage": 13.00,
+		"invalid": 96,
+		"sum": 12573
+	},
+	{
+		"key": 677000,
+		"name": "Main-Spessart",
+		"voters": 101173,
+		"voters_valid": 16744,
+		"valid_percentage": 16.50,
+		"invalid": 59,
+		"sum": 16803
+	},
+	{
+		"key": 678000,
+		"name": "Schweinfurt",
+		"voters": 91425,
+		"voters_valid": 16995,
+		"valid_percentage": 18.60,
+		"invalid": 74,
+		"sum": 17069
+	},
+	{
+		"key": 679000,
+		"name": "Würzburg",
+		"voters": 126305,
+		"voters_valid": 22248,
+		"valid_percentage": 17.60,
+		"invalid": 71,
+		"sum": 22319
+	},
+	{
+		"key": 761000,
+		"name": "Augsburg, krfr. St",
+		"name_clean": "Augsburg Städte",
+		"voters": 186710,
+		"voters_valid": 24178,
+		"valid_percentage": 12.90,
+		"invalid": 28,
+		"sum": 24206
+	},
+	{
+		"key": 762000,
+		"name": "Kaufbeuren, krfr. St",
+		"name_clean": "Kaufbeuren Städte",
+		"voters": 31423,
+		"voters_valid": 4505,
+		"valid_percentage": 14.30,
+		"invalid": 4,
+		"sum": 4509
+	},
+	{
+		"key": 763000,
+		"name": "Kempten (Allgäu), krfr. St",
+		"name_clean": "Kempten Städte",
+		"voters": 47885,
+		"voters_valid": 6473,
+		"valid_percentage": 13.50,
+		"invalid": 41,
+		"sum": 6514
+	},
+	{
+		"key": 764000,
+		"name": "Memmingen, krfr. St",
+		"name_clean": "Memmingen Städte",
+		"voters": 29840,
+		"voters_valid": 3929,
+		"valid_percentage": 13.20,
+		"invalid": 21,
+		"sum": 3950
+	},
+	{
+		"key": 771000,
+		"name": "Aichach-Friedberg",
+		"voters": 98050,
+		"voters_valid": 13521,
+		"valid_percentage": 13.80,
+		"invalid": 43,
+		"sum": 13564
+	},
+	{
+		"key": 772000,
+		"name": "Augsburg",
+		"voters": 183947,
+		"voters_valid": 28838,
+		"valid_percentage": 15.70,
+		"invalid": 130,
+		"sum": 28968
+	},
+	{
+		"key": 773000,
+		"name": "Dillingen a.d.Donau",
+		"name_clean": "Dillingen",
+		"voters": 72007,
+		"voters_valid": 8617,
+		"valid_percentage": 12.00,
+		"invalid": 211,
+		"sum": 8828
+	},
+	{
+		"key": 774000,
+		"name": "Günzburg",
+		"voters": 89009,
+		"voters_valid": 11708,
+		"valid_percentage": 13.20,
+		"invalid": 28,
+		"sum": 11736
+	},
+	{
+		"key": 775000,
+		"name": "Neu-Ulm",
+		"voters": 121503,
+		"voters_valid": 10478,
+		"valid_percentage": 8.60,
+		"invalid": 21,
+		"sum": 10499
+	},
+	{
+		"key": 776000,
+		"name": "Lindau (Bodensee)",
+		"voters": 58507,
+		"voters_valid": 6178,
+		"valid_percentage": 10.60,
+		"invalid": 20,
+		"sum": 6198
+	},
+	{
+		"key": 777000,
+		"name": "Ostallgäu",
+		"voters": 102985,
+		"voters_valid": 14381,
+		"valid_percentage": 14.00,
+		"invalid": 53,
+		"sum": 14434
+	},
+	{
+		"key": 778000,
+		"name": "Unterallgäu",
+		"voters": 105248,
+		"voters_valid": 13128,
+		"valid_percentage": 12.50,
+		"invalid": 27,
+		"sum": 13155
+	},
+	{
+		"key": 779000,
+		"name": "Donau-Ries",
+		"voters": 99454,
+		"voters_valid": 13002,
+		"valid_percentage": 13.10,
+		"invalid": 78,
+		"sum": 13080
+	},
+	{
+		"key": 780000,
+		"name": "Oberallgäu",
+		"voters": 116435,
+		"voters_valid": 14199,
+		"valid_percentage": 12.20,
+		"invalid": 41,
+		"sum": 14240
+	}
+]
