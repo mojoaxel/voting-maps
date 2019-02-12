@@ -27,7 +27,11 @@
 			flex-direction: column;
 		}
 		#content {
+			position: relative;
 			flex: auto;
+
+			max-width: 800px;
+			max-height: 600px;
 		}
 		#map { 
 			width: 100%;
@@ -73,7 +77,9 @@
 <body>
 	<article id="content">
 		<div id='map'></div>
-		<img class="overlay" src="Logo_Volksbegehren.jpg" />
+		<a href="https://www.wahlen.bayern.de/volksentscheide/vob_studienbeitraege.htm">
+			<img class="overlay" src="Logo_Volksbegehren.jpg" target="_blank"/>
+		</a>
 	</article>
 
 	<script type="text/javascript">
