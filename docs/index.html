@@ -29,9 +29,6 @@
 		#content {
 			position: relative;
 			flex: auto;
-
-			max-width: 800px;
-			max-height: 600px;
 		}
 		#map { 
 			width: 100%;
@@ -68,7 +65,6 @@
 			right: 10px;
 			top: 85px;
 			z-index: 999;
-			box-shadow: 0 0 15px rgba(0,0,0,0.2);
 			width: 200px;
 		}
 		</style>
@@ -77,8 +73,8 @@
 <body>
 	<article id="content">
 		<div id='map'></div>
-		<a href="https://www.wahlen.bayern.de/volksentscheide/vob_studienbeitraege.htm">
-			<img class="overlay" src="vob_studienbeitraege.png" target="_blank"/>
+		<a href="https://volksbegehren-artenvielfalt.de/">
+			<img class="overlay" src="vob_rettet_die_bienen.png" target="_blank"/>
 		</a>
 	</article>
 
@@ -87,7 +83,7 @@
 		var map = L.map('map', {
 			minZoom: 6,
 			maxZoom: 9
-		}).setView([48.8, 12.6], 7);
+		}).setView([48.95, 12.6], 7);
 
 		L.tileLayer(
 			'https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token=pk.eyJ1IjoibWFwYm94IiwiYSI6ImNpejY4NXVycTA2emYycXBndHRqcmZ3N3gifQ.rJcFIG214AriISLbB6B5aw', {
@@ -127,7 +123,9 @@
 
 				// get color depending on population density value
 				function getColor(d) {
-					return d < 10 ? `#${rainbowRed.colourAt(d)}` : `#${rainbowGreen.colourAt(d)}`;
+					return d < 10 ? `#${rainbowRed.colourAt(d)}` : 
+								d < 20 ? `#${rainbowGreen.colourAt(d)}` :
+								'#bfff00';
 				}
 
 				function style(feature) {
@@ -189,7 +187,7 @@
 					this._div.innerHTML = '<h4>' + title + '</h4>' +
 						(props ?
 							'<b>' + props.name + '</b><br />' +
-							'Ergebnis: ' + props.density + '%' :
+							'Ergebnis (vorl.): ' + props.density + '%' :
 							'Region auswählen');
 				};
 				info.addTo(map);
@@ -202,7 +200,8 @@
 					var div = L.DomUtil.create('div', 'info legend'),
 						grades = [
 							...(new Array(VALUE_COUNT)).fill(0).map((x, i) => x + i * (10 / VALUE_COUNT)),
-							...(new Array(VALUE_COUNT)).fill(10).map((x, i) => x + i * (10 / VALUE_COUNT))
+							...(new Array(VALUE_COUNT)).fill(10).map((x, i) => x + i * (10 / VALUE_COUNT)),
+							20
 						],
 						labels = [],
 						from, to;

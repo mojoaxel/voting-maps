@@ -1,14 +1,16 @@
 {
 	"type": "FeatureCollection",
 	"properties": {
-		"name": "Volksbegehren \"Nein zu Studienbeiträgen in Bayern\""
+		"name": "Volksbegehren \"Artenvielfalt & Naturschönheit in Bayern\"",
+		"logo": "vob_rettet_die_bienen.jpg",
+		"website": "https://volksbegehren-artenvielfalt.de/"
 	},
 	"features": [
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Ingolstadt, krfr. St",
-				"density": "13.20"
+				"name": "Ingolstadt, kreisfreie Stadt",
+				"density": "14.70"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -358,7 +360,7 @@
 			"type": "Feature",
 			"properties": {
 				"name": "München, Landeshauptstadt",
-				"density": "12.10"
+				"density": "20.50"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -907,8 +909,8 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Rosenheim, krfr. St",
-				"density": "11.40"
+				"name": "Rosenheim, kreisfreie Stadt",
+				"density": "16.90"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -1046,7 +1048,7 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Altötting",
-				"density": "13.00"
+				"density": "18.60"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -1856,7 +1858,7 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Berchtesgadener Land",
-				"density": "9.30"
+				"density": "15.70"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -2894,7 +2896,7 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Bad Tölz-Wolfratshausen",
-				"density": "11.40"
+				"density": "18.10"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -4004,7 +4006,7 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Dachau",
-				"density": "14.00"
+				"density": "22.90"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -4810,7 +4812,7 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Ebersberg",
-				"density": "15.20"
+				"density": "22.70"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -5572,7 +5574,7 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Eichstätt",
-				"density": "17.20"
+				"density": "16.00"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -7058,7 +7060,7 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Erding",
-				"density": "13.20"
+				"density": "17.40"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -7928,7 +7930,7 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Freising",
-				"density": "15.00"
+				"density": "18.50"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -8766,7 +8768,7 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Fürstenfeldbruck",
-				"density": "15.30"
+				"density": "25.70"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -9580,7 +9582,7 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Garmisch-Partenkirchen",
-				"density": "10.10"
+				"density": "19.40"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -10526,7 +10528,7 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Landsberg am Lech",
-				"density": "13.90"
+				"density": "24.80"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -11552,7 +11554,7 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Miesbach",
-				"density": "10.90"
+				"density": "17.90"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -12510,7 +12512,7 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Mühldorf a.Inn",
-				"density": "11.80"
+				"density": "16.90"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -13680,7 +13682,7 @@
 			"type": "Feature",
 			"properties": {
 				"name": "München",
-				"density": "15.10"
+				"density": "26.50"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -14846,7 +14848,7 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Neuburg-Schrobenhausen",
-				"density": "13.80"
+				"density": "13.70"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -15792,7 +15794,7 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Pfaffenhofen a.d.Ilm",
-				"density": "14.90"
+				"density": "15.30"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -16806,7 +16808,7 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Rosenheim",
-				"density": "12.80"
+				"density": "19.20"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -18486,7 +18488,7 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Starnberg",
-				"density": "13.90"
+				"density": "27.70"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -19164,7 +19166,7 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Traunstein",
-				"density": "13.40"
+				"density": "17.70"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -20538,7 +20540,7 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Weilheim-Schongau",
-				"density": "14.40"
+				"density": "23.20"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -21827,8 +21829,8 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Landshut, krfr. St",
-				"density": "15.60"
+				"name": "Landshut, kreisfreie Stadt",
+				"density": "19.90"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -22165,8 +22167,8 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Passau, krfr. St",
-				"density": "12.90"
+				"name": "Passau, kreisfreie Stadt",
+				"density": "16.80"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -22459,8 +22461,8 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Straubing, krfr. St",
-				"density": "12.60"
+				"name": "Straubing, kreisfreie Stadt",
+				"density": "13.00"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -22782,7 +22784,7 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Deggendorf",
-				"density": "11.80"
+				"density": "11.70"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -23804,7 +23806,7 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Freyung-Grafenau",
-				"density": "13.60"
+				"density": "11.40"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -24946,7 +24948,7 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Kelheim",
-				"density": "13.10"
+				"density": "14.90"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -26264,7 +26266,7 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Landshut",
-				"density": "14.10"
+				"density": "15.80"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -27908,7 +27910,7 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Passau",
-				"density": "11.20"
+				"density": "13.40"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -30512,7 +30514,7 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Rottal-Inn",
-				"density": "10.60"
+				"density": "12.90"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -31766,7 +31768,7 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Straubing-Bogen",
-				"density": "13.70"
+				"density": "12.80"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -33434,7 +33436,7 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Dingolfing-Landau",
-				"density": "13.90"
+				"density": "14.60"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -34571,8 +34573,8 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Amberg, krfr. St",
-				"density": "13.90"
+				"name": "Amberg, kreisfreie Stadt",
+				"density": "14.70"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -34789,8 +34791,8 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Regensburg, krfr. St",
-				"density": "16.30"
+				"name": "Regensburg, kreisfreie Stadt",
+				"density": "18.10"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -35103,8 +35105,8 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Weiden i.d.OPf., krfr. St",
-				"density": "15.30"
+				"name": "Weiden i.d.OPf., kreisfreie Stadt",
+				"density": "14.30"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -35510,7 +35512,7 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Amberg-Sulzbach",
-				"density": "19.50"
+				"density": "15.80"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -37246,7 +37248,7 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Cham",
-				"density": "14.00"
+				"density": "15.30"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -38716,7 +38718,7 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Neumarkt i.d.OPf.",
-				"density": "16.50"
+				"density": "18.00"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -40238,7 +40240,7 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Neustadt a.d.Waldnaab",
-				"density": "18.40"
+				"density": "14.20"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -42322,7 +42324,7 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Regensburg",
-				"density": "15.00"
+				"density": "15.80"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -44366,7 +44368,7 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Schwandorf",
-				"density": "15.70"
+				"density": "13.10"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -45944,7 +45946,7 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Tirschenreuth",
-				"density": "18.20"
+				"density": "16.40"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -47205,8 +47207,8 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Bamberg, krfr. St",
-				"density": "19.10"
+				"name": "Bamberg, kreisfreie Stadt",
+				"density": "21.00"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -47411,8 +47413,8 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Bayreuth, krfr. St",
-				"density": "15.60"
+				"name": "Bayreuth, kreisfreie Stadt",
+				"density": "19.40"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -47693,8 +47695,8 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Coburg, krfr. St",
-				"density": "16.60"
+				"name": "Coburg, kreisfreie Stadt",
+				"density": "17.80"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -47979,8 +47981,8 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Hof, krfr. St",
-				"density": "10.40"
+				"name": "Hof, kreisfreie Stadt",
+				"density": "10.50"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -48226,7 +48228,7 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Bamberg",
-				"density": "15.10"
+				"density": "17.20"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -49950,7 +49952,7 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Bayreuth",
-				"density": "13.50"
+				"density": "16.90"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -51822,7 +51824,7 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Coburg",
-				"density": "16.90"
+				"density": "16.70"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -53098,7 +53100,7 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Forchheim",
-				"density": "17.40"
+				"density": "18.90"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -54044,7 +54046,7 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Hof",
-				"density": "14.10"
+				"density": "13.90"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -55432,7 +55434,7 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Kronach",
-				"density": "16.70"
+				"density": "13.60"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -56326,7 +56328,7 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Kulmbach",
-				"density": "13.70"
+				"density": "15.20"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -57368,7 +57370,7 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Lichtenfels",
-				"density": "15.80"
+				"density": "17.00"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -58222,7 +58224,7 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Wunsiedel i.Fichtelgebirge",
-				"density": "15.20"
+				"density": "15.90"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -59011,8 +59013,8 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Ansbach, krfr. St",
-				"density": "12.00"
+				"name": "Ansbach, kreisfreie Stadt",
+				"density": "19.40"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -59365,8 +59367,8 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Erlangen, krfr. St",
-				"density": "22.30"
+				"name": "Erlangen, kreisfreie Stadt",
+				"density": "24.90"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -59615,8 +59617,8 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Fürth, krfr. St",
-				"density": "14.20"
+				"name": "Fürth, kreisfreie Stadt",
+				"density": "19.40"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -59869,8 +59871,8 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Nürnberg, krfr. St",
-				"density": "14.60"
+				"name": "Nürnberg, kreisfreie Stadt",
+				"density": "19.50"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -60431,8 +60433,8 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Schwabach, krfr. St",
-				"density": "19.50"
+				"name": "Schwabach, kreisfreie Stadt",
+				"density": "22.70"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -60634,7 +60636,7 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Ansbach",
-				"density": "15.40"
+				"density": "18.90"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -62678,7 +62680,7 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Erlangen-Höchstadt",
-				"density": "20.00"
+				"density": "22.20"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -64060,7 +64062,7 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Fürth",
-				"density": "19.70"
+				"density": "25.40"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -64634,7 +64636,7 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Nürnberger Land",
-				"density": "19.30"
+				"density": "23.00"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -65800,7 +65802,7 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Neustadt a.d.Aisch-Bad Windsheim",
-				"density": "15.90"
+				"density": "16.70"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -67106,7 +67108,7 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Roth",
-				"density": "16.90"
+				"density": "20.60"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -68512,7 +68514,7 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Weißenburg-Gunzenhausen",
-				"density": "16.40"
+				"density": "17.60"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -69549,8 +69551,8 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Aschaffenburg, krfr. St",
-				"density": "9.80"
+				"name": "Aschaffenburg, kreisfreie Stadt",
+				"density": "15.80"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -69843,8 +69845,8 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Schweinfurt, krfr. St",
-				"density": "14.40"
+				"name": "Schweinfurt, kreisfreie Stadt",
+				"density": "13.80"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -70053,8 +70055,8 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Würzburg, krfr. St",
-				"density": "18.80"
+				"name": "Würzburg, kreisfreie Stadt",
+				"density": "20.90"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -70416,7 +70418,7 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Aschaffenburg",
-				"density": "12.00"
+				"density": "19.00"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -71570,7 +71572,7 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Bad Kissingen",
-				"density": "16.30"
+				"density": "15.70"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -72736,7 +72738,7 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Rhön-Grabfeld",
-				"density": "16.40"
+				"density": "16.20"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -73902,7 +73904,7 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Haßberge",
-				"density": "17.40"
+				"density": "15.70"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -75080,7 +75082,7 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Kitzingen",
-				"density": "14.40"
+				"density": "16.30"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -75982,7 +75984,7 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Miltenberg",
-				"density": "13.00"
+				"density": "19.10"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -77188,7 +77190,7 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Main-Spessart",
-				"density": "16.50"
+				"density": "14.60"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -78490,7 +78492,7 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Schweinfurt",
-				"density": "18.60"
+				"density": "18.10"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -79970,7 +79972,7 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Würzburg",
-				"density": "17.60"
+				"density": "20.50"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -81617,8 +81619,8 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Augsburg, krfr. St",
-				"density": "12.90"
+				"name": "Augsburg, kreisfreie Stadt",
+				"density": "20.60"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -82019,8 +82021,8 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Kaufbeuren, krfr. St",
-				"density": "14.30"
+				"name": "Kaufbeuren, kreisfreie Stadt",
+				"density": "15.90"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -82249,8 +82251,8 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Kempten (Allgäu), krfr. St",
-				"density": "13.50"
+				"name": "Kempten (Allgäu), kreisfreie Stadt",
+				"density": "17.00"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -82511,8 +82513,8 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Memmingen, krfr. St",
-				"density": "13.20"
+				"name": "Memmingen, kreisfreie Stadt",
+				"density": "17.30"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -82842,7 +82844,7 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Aichach-Friedberg",
-				"density": "13.80"
+				"density": "20.80"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -83872,7 +83874,7 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Augsburg",
-				"density": "15.70"
+				"density": "22.00"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -85346,7 +85348,7 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Dillingen a.d.Donau",
-				"density": "12.00"
+				"density": "15.80"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -86428,7 +86430,7 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Günzburg",
-				"density": "13.20"
+				"density": "15.80"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -87510,7 +87512,7 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Neu-Ulm",
-				"density": "8.60"
+				"density": "12.50"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -88220,7 +88222,7 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Lindau (Bodensee)",
-				"density": "10.60"
+				"density": "16.10"
 			},
 			"geometry": {
 				"type": "MultiPolygon",
@@ -89028,7 +89030,7 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Ostallgäu",
-				"density": "14.00"
+				"density": "17.00"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -90948,7 +90950,7 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Unterallgäu",
-				"density": "12.50"
+				"density": "18.40"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -92530,7 +92532,7 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Donau-Ries",
-				"density": "13.10"
+				"density": "16.60"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -94116,7 +94118,7 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Oberallgäu",
-				"density": "12.20"
+				"density": "17.90"
 			},
 			"geometry": {
 				"type": "MultiPolygon",
