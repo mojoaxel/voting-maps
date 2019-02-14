@@ -65,7 +65,7 @@
 			right: 10px;
 			top: 85px;
 			z-index: 999;
-			width: 200px;
+			max-width: 20vw;
 		}
 		</style>
 </head>
@@ -81,6 +81,7 @@
 	<script type="text/javascript">
 
 		var map = L.map('map', {
+			zoomControl: false,
 			minZoom: 6,
 			maxZoom: 9
 		}).setView([48.95, 12.6], 7);
