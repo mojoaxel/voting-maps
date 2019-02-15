@@ -106,6 +106,9 @@
 		rainbowGreen.setNumberRange(10, 20);
 		rainbowGreen.setSpectrum('#003300', '#00FF00');
 
+		var rainbowYellow = new Rainbow();
+		rainbowYellow.setNumberRange(20, 30);
+		rainbowYellow.setSpectrum('#00FF00', '#FFFF00', '#FFFFFF');
 
 		//fetch('us-states.geo.json')
 		fetch('data.geo.json')
@@ -126,7 +129,7 @@
 				function getColor(d) {
 					return d < 10 ? `#${rainbowRed.colourAt(d)}` : 
 								d < 20 ? `#${rainbowGreen.colourAt(d)}` :
-								'#bfff00';
+								`#${rainbowYellow.colourAt(d)}`;
 				}
 
 				function style(feature) {
@@ -193,16 +196,14 @@
 				};
 				info.addTo(map);
 
-
-
 				var legend = L.control({ position: 'bottomright' });
 				legend.onAdd = function (map) {
-					const VALUE_COUNT = 5;
+					const VALUE_COUNT = 2;
 					var div = L.DomUtil.create('div', 'info legend'),
 						grades = [
-							...(new Array(VALUE_COUNT)).fill(0).map((x, i) => x + i * (10 / VALUE_COUNT)),
-							...(new Array(VALUE_COUNT)).fill(10).map((x, i) => x + i * (10 / VALUE_COUNT)),
-							20
+							...(new Array(VALUE_COUNT)).fill(0).map((x, i) => (x + i * (10 / VALUE_COUNT))),
+							...(new Array(VALUE_COUNT)).fill(10).map((x, i) => (x + i * (10 / VALUE_COUNT))),
+							...(new Array(VALUE_COUNT)).fill(20).map((x, i) => (x + i * (10 / VALUE_COUNT)))
 						],
 						labels = [],
 						from, to;
