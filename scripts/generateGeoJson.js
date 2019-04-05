@@ -27,7 +27,7 @@ function generateGeoJson(results, geoJson) {
 		});
 
 		if (!regions || !regions.length) {
-			console.warn(`No geoJson entry found for ${key} (${result.name})`)
+			console.warn(`No geoJson entry found for "${key}"`)
 		} if (regions.length > 1) {
 			console.warn(`Multible geoJson entries found for key "${key}": ${JSON.stringify(regions.map(r => r.properties))}`)
 		}
@@ -54,17 +54,21 @@ function addGeoNames(results, gemeinden) {
 		 * So we map some names here, that are definely false int the geoJson. */
 		const nameFixes = {
 			"München, Landeshauptstadt": "Munich Städte",
+			"München, Krfr. St": "Munich Städte",
 			"München": "Munich",
 			"Landsberg am Lech": "Landsberg a.Lech",
 			"Neustadt a.d.Waldnaab": "Neustadt a.d.Waldnaab|Waldnaab",
 			"Neustadt a.d.Aisch-Bad Windsheim": "Neustadt-Bad Windsheim",
 			"Kempten (Allgäu), krfr. St": "Kempten Städte",
+			"Kempten (Allgäu), Krfr. St": "Kempten Städte",
 			"Kempten (Allgäu), kreisfreie Stadt": "Kempten Städte",
 			"Kempten (Allgäu)": "Kempten Städte",
 			"Dillingen a.d.Donau": "Dillingen",
 			"Weiden i.d.OPf., krfr. St": "Weiden Städte",
+			"Weiden i.d.OPf., Krfr. St": "Weiden Städte",
 			"Weiden i.d.OPf., kreisfreie Stadt": "Weiden Städte",
 			"Nürnberg, krfr. St": "Nuremberg Städte",
+			"Nürnberg, Krfr. St": "Nuremberg Städte",
 			"Nürnberg, kreisfreie Stadt": "Nuremberg Städte",
 			"Memmingen": "Memmingen Städte",
 			"Ingolstadt": "Ingolstadt Städte",
@@ -81,8 +85,10 @@ function addGeoNames(results, gemeinden) {
 		}
 
 		/* 2. We know it could help replacing "krfr. St" with "Städte" */
-		geoName = result.name.includes('krfr. St') ? result.name.replace(', krfr. St', ' Städte') : null;
-		geoName = result.name.includes('kreisfreie Stadt') ? result.name.replace(', kreisfreie Stadt', ' Städte') : null;
+		
+		geoName = result.name.includes('Krfr. St') ? result.name.replace(', Krfr. St', ' Städte') : geoName;
+		geoName = result.name.includes('krfr. St') ? result.name.replace(', krfr. St', ' Städte') : geoName;
+		geoName = result.name.includes('kreisfreie Stadt') ? result.name.replace(', kreisfreie Stadt', ' Städte') : geoName;
 		if (geoName) {
 			result.geoName = geoName;
 			return result;
@@ -108,7 +114,7 @@ function addGeoNames(results, gemeinden) {
 		}
 		return result;
 	});
-
+	
 	return results;
 }
 
@@ -117,7 +123,8 @@ function addGeoNames(results, gemeinden) {
 //const filename = path.resolve(__dirname, "../src/BY/studienbeitraege/vob_studienbeitraege_kr1-7.csv");
 //const filename = path.resolve(__dirname, "../src/BY/g9-g8/vob_g9-g8_kr1-7.csv");
 //const filename = path.resolve(__dirname, "../src/BY/kontrolle/ergebnis_kontrolle.csv");
-const filename = path.resolve(__dirname, "../src/BY/artenvielfalt/vob_rettet_die_bienen_vorl_14.02.2019_12:35.csv");
+//const filename = path.resolve(__dirname, "../src/BY/artenvielfalt/vob_rettet_die_bienen_vorl_14.02.2019_12:35.csv");
+const filename = path.resolve(__dirname, "../src/BY/artenvielfalt/vob_rettet_die_bienen_14.03.2019.csv");
 
 (async () => {
 	var results = await getDataFromCSV(filename);
