@@ -8,6 +8,10 @@
     "start": "npm run generateGeoJson"
   },
   "author": "Alexander Wunschik <dev@wunschik.net>",
+  "funding": {
+    "type": "github",
+    "url": "https://github.com/sponsors/mojoaxel"
+  },
   "license": "AGPL-3.0-or-later",
   "devDependencies": {
     "csvtojson": "^2.0.8"
